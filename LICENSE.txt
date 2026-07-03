@@ -1,0 +1,15 @@
+GLYPHBREAK ARENA BINARY DISTRIBUTION NOTICE
+
+All rights in the original game content are reserved by the project owner.
+Permission is granted to download, run, and share unmodified official binary
+releases for personal, non-commercial use.
+
+No permission is granted to falsely claim authorship or official affiliation,
+to redistribute modified binaries as official releases, or to use the project
+name and branding for another product.
+
+Third-party components remain governed by their respective licenses. See
+THIRD_PARTY_NOTICES.txt included with each official build.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM
+EXTENT PERMITTED BY APPLICABLE LAW.
